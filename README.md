@@ -1,2 +1,4 @@
-# Explore-your-LinkedIn-Network
-This project will show you how to explore your LinkedIn network
+## Explore-your-LinkedIn-Network
+
+In this project, I will show how to request your data from LinkedIn, download it, and then analyze it.
+
