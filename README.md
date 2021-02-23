@@ -11,6 +11,6 @@ Under Want something in particular? Select the data files you're most interested
 
 I checked Connections > then Request archive
 
-![image](images/get_data.png)
+![images](images/get_data.png)
 
 
