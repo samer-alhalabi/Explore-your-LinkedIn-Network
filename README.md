@@ -9,7 +9,7 @@ Go to your profile > Click on Me (dropdown) > Settings & Privacy > How LinkedIn 
 
 Under Want something in particular? Select the data files you're most interested in. 
 
-I checked Connections > then Request archive
+I checked Connections > then Request archive. LinkedIn will email you the data.
 
 ![image](images/get_data.jpg)
 
